@@ -1,5 +1,5 @@
 {
-  "name": "@khushi/advanceddsa.js",
+  "name": "khushi_advanceddsa.js",
   "version": "1.0.0",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding implementations",
   "main": "index.js",

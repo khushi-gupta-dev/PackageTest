@@ -1,0 +1,1 @@
+this is the package where you can find data structures like queue , heap implemented along with algorithms like mergesort , quicksort , bubblesort  i have made this for learning purpose of packages  
